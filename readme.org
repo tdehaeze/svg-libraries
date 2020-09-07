@@ -1,4 +1,4 @@
-#+TITLE: Inkscape Library
+#+TITLE: SVG Library
 
 This is my personal gathering of nice SVG libraries for scientific and technical schematics.
 Please don't hesitate to add/modify some elements and send a pull request.
