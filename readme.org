@@ -6,7 +6,10 @@ Please don't hesitate to add/modify some elements and send a pull request.
 The idea is to have a set of components in order to easily make beautiful diagram for publication.
 
 * Control and Systems
-Various blocks.
+Various blocks:
+- Filters (low pass filter, high pass filter, notch, ...)
+- Sources (sine, noise, sweep, ...)
+- Dynamical systems
 
 * Optics
 The optics library is taken from: http://www.gwoptics.org/ComponentLibrary/
