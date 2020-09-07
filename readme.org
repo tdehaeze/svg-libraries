@@ -1,0 +1,21 @@
+#+TITLE: Inkscape Library
+
+This is my personal gathering of nice SVG libraries for scientific and technical schematics.
+Please don't hesitate to add/modify some elements and send a pull request.
+
+The idea is to have a set of components in order to easily make beautiful diagram for publication.
+
+* Control and Systems
+Various blocks.
+
+* Optics
+The optics library is taken from: http://www.gwoptics.org/ComponentLibrary/
+
+* Mechanics
+
+- Actuators (piezoelectric, electromagnetic, stepper, ...)
+- Sensors (displacement, force, inertial, ...)
+- Mechanical systems (mass spring damper, beam, plates, ...)
+
+* Electrical Circuits
+The electrical library is taken from: https://en.wikipedia.org/wiki/File:Electrical_symbols_library.svg
